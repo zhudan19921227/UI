@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "BF-201910201343",
+    "children" : [ {
+      "name" : "13808-MainThread",
+      "children" : [ {
+        "name" : "忘记密码",
+        "uid" : "ebce345e5e3b0609",
+        "parentUid" : "e25ecff20f6ec72cdbf8937098dda170",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643507611350,
+          "stop" : 1643507611837,
+          "duration" : 487
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登入",
+        "uid" : "8c8b2cd36eb728e0",
+        "parentUid" : "e25ecff20f6ec72cdbf8937098dda170",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643507591099,
+          "stop" : 1643507592248,
+          "duration" : 1149
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"user\": 13362683621, \"password\": \"zhuhan19921227\"}'", "'{\"loginName\": \"\\u5927\\u5934\"}'" ]
+      }, {
+        "name" : "登入",
+        "uid" : "65d3a5bbf7e40e9b",
+        "parentUid" : "e25ecff20f6ec72cdbf8937098dda170",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643507592539,
+          "stop" : 1643507598831,
+          "duration" : 6292
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"user\": 13362683621, \"password\": \"\"}'", "'{\"loginName\": \"\"}'" ]
+      }, {
+        "name" : "test_001",
+        "uid" : "3d26a038d157ce74",
+        "parentUid" : "e25ecff20f6ec72cdbf8937098dda170",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643507581406,
+          "stop" : 1643507586638,
+          "duration" : 5232
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登入",
+        "uid" : "1a18929100ba8a44",
+        "parentUid" : "e25ecff20f6ec72cdbf8937098dda170",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643507599310,
+          "stop" : 1643507604866,
+          "duration" : 5556
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"user\": \"\", \"password\": \"zhuhan19921227\"}'", "'{\"loginName\": \"\"}'" ]
+      }, {
+        "name" : "登入",
+        "uid" : "79a7be281a18e533",
+        "parentUid" : "e25ecff20f6ec72cdbf8937098dda170",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643507605317,
+          "stop" : 1643507611068,
+          "duration" : 5751
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"user\": \"\", \"password\": \"\"}'", "'{\"loginName\": \"\"}'" ]
+      } ],
+      "uid" : "e25ecff20f6ec72cdbf8937098dda170"
+    } ],
+    "uid" : "97aa87cbbc88d2c957fe5036ec603a0e"
+  } ]
+}

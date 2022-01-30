@@ -1,0 +1,61 @@
+[ {
+  "uid" : "ebce345e5e3b0609",
+  "name" : "忘记密码",
+  "time" : {
+    "start" : 1643507611350,
+    "stop" : 1643507611837,
+    "duration" : 487
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "65d3a5bbf7e40e9b",
+  "name" : "登入",
+  "time" : {
+    "start" : 1643507592539,
+    "stop" : 1643507598831,
+    "duration" : 6292
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "79a7be281a18e533",
+  "name" : "登入",
+  "time" : {
+    "start" : 1643507605317,
+    "stop" : 1643507611068,
+    "duration" : 5751
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1a18929100ba8a44",
+  "name" : "登入",
+  "time" : {
+    "start" : 1643507599310,
+    "stop" : 1643507604866,
+    "duration" : 5556
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8c8b2cd36eb728e0",
+  "name" : "登入",
+  "time" : {
+    "start" : 1643507591099,
+    "stop" : 1643507592248,
+    "duration" : 1149
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3d26a038d157ce74",
+  "name" : "test_001",
+  "time" : {
+    "start" : 1643507581406,
+    "stop" : 1643507586638,
+    "duration" : 5232
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
