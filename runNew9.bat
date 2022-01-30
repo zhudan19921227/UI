@@ -11,6 +11,6 @@ del /f/s/q D:\zidonghua\UINew\report\report
 echo --------------环境文件删除已经完成，开始运行脚本————————————
 @echo on
 
-cd D:/6/UIpython
+cd D:/zidonghua/UINew
 pytest -sq --alluredir=./report/tmp
 allure generate  ./report/tmp -o ./report/report --clean
